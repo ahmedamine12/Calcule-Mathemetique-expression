@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1576135311 source:c:\users\lenovo\desktop\home_code\expression_arith\main.c
+	<stdio.h>
+	<stdlib.h>
+	"expression.h"
+
+1576064118 c:\users\lenovo\desktop\home_code\expression_arith\expression.h
+
+1576064119 source:c:\users\lenovo\desktop\home_code\expression_arith\expression.c
+	<stdio.h>
+	<stdlib.h>
+	"expression.h"
+
